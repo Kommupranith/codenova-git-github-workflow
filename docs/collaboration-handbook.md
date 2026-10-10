@@ -38,3 +38,15 @@ CodeNova Task 1.
 
 7\. Practice resolving merge conflicts.
 
+
+
+\## Best Practices
+
+\- Write clear commit messages.
+
+\- Use feature branches for changes.
+
+\- Review code before merging.
+
+\- Keep documentation updated.
+
