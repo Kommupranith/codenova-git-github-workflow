@@ -1,0 +1,14 @@
+# Temporary files
+*.tmp
+*.log
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Editor settings
+.vscode/
